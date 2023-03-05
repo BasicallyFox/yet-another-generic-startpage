@@ -42,36 +42,36 @@ export const initialBookmarks: InitialBookmarkGroup[] = [
     bookmarks: [
       {
         label: "r/startpages",
-        url: "https://www.reddit.com/r/startpages/",
+        url: "https://www.reddit.com/r/brasilivre",
       },
       {
         label: "r/typescript",
-        url: "https://www.reddit.com/r/typescript/",
+        url: "https://www.reddit.com/r/albedo/",
       },
       {
         label: "r/reactjs",
-        url: "https://www.reddit.com/r/reactjs/",
+        url: "https://www.reddit.com/r/linuxbrasil/",
       },
     ],
   },
   {
-    label: "design tools",
+    label: "mail",
     bookmarks: [
       {
-        label: "pixlrx",
-        url: "https://pixlr.com/x/",
+        label: "Tutanota",
+        url: "https://mail.tutanota.com",
       },
       {
-        label: "image enlarger",
-        url: "https://bigjpg.com/en",
+        label: "Proton",
+        url: "https://mail.proton.me/u/0/inbox",
       },
       {
-        label: "haikei",
-        url: "https://app.haikei.app/",
+        label: "Gmail",
+        url: "https://mail.google.com/mail/u/0/#inbox",
       },
       {
-        label: "css gradients",
-        url: "https://larsenwork.com/easing-gradients/",
+        label: "Booru",
+        url: "https://danbooru.donmai.us/",
       },
     ],
   },
@@ -79,16 +79,16 @@ export const initialBookmarks: InitialBookmarkGroup[] = [
     label: "worth reading",
     bookmarks: [
       {
-        label: "happy hues",
-        url: "https://www.happyhues.co/",
+        label: "Anon Reports",
+        url: "https://anaoreports.neocities.org/",
       },
       {
-        label: "styled-components",
-        url: "https://www.joshwcomeau.com/react/demystifying-styled-components/",
+        label: "Tudocelular",
+        url: "https://tudocelular.com",
       },
       {
-        label: "react docs",
-        url: "https://reactjs.org/docs/getting-started.html",
+        label: "ArchWiki",
+        url: "https://wiki.archlinux.org/",
       },
     ],
   },
